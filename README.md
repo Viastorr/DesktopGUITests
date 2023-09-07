@@ -1,1 +1,7 @@
 # ConsoleApp5
+Instrukcja do testu:
+1. Skonfiguruj środowisko na którym uruchamiany będzie test (zainstaluj Nugety Appium.WebDriver, xunit, xunit.runner.visualstudio)
+2. Pamiętaj o pobraniu Windows Application Driver który testuje UI aplikacji w systemie windows. (https://github.com/Microsoft/WinAppDriver/releases).
+3. Pamiętaj o uruchomieniu trybu deweloperskiego w systemie Windows.
+4. Otwórz plik z gotowym testem.
+5. Uruchom test (Pamiętaj aby przed wykonaniem testu był uruchomić Windows Application Driver)
